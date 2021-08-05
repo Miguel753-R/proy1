@@ -1,0 +1,15 @@
+body{
+    font-size: xx-large;
+}
+.homero{
+    width: 10%;
+}
+.homero img{
+    width: 100%;
+}
+#contenido{
+    color: blueviolet;
+}
+#nombre{
+    color: darkred;
+}
